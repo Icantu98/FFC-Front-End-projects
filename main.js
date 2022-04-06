@@ -65,7 +65,19 @@ function getQuotes(){
 
 function getRandomQuote(){
   return quotesData.quotes[
-    Math.floor(Math.random()* quotesData.quotes.length)
+    Math.floor(Math.random()* quotesData.quotes.length) // This will randomize the index
   ];
 }
 
+function getQuote(){
+  let 
+}
+
+
+$(document).ready(function () {
+  getQuotes().then(() => {
+    getQuote();
+  });
+
+  $('#new-quote').on('click', getQuote);
+});
