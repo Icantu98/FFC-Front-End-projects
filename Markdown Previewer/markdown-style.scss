@@ -26,8 +26,9 @@ body{
     line-height: 1.5;
     text-align: left;
     background-color: $backgroundBase;
+    margin: 10px 0px;
 }
 
 h1{
-    color: blue;
+    color: $lightAccent;
 }

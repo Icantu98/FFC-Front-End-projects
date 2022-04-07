@@ -18,9 +18,10 @@ body {
   line-height: 1.5;
   text-align: left;
   background-color: #3F5765;
+  margin: 10px 0px;
 }
 
 h1 {
-  color: blue;
+  color: #BDD4DE;
 }
 /*# sourceMappingURL=markdown-style.css.map */
