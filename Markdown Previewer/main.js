@@ -1,5 +1,8 @@
-const projectName = 'markdown-previewer'
-
+class App extends React.Component{
+    constructor(props){
+        super(props)
+    }
+}
 
 
 
