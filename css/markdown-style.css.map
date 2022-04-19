@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAOA;;;;;;;EAOE;AAGF,AAAA,CAAC,CAAA;EACG,UAAU,EAAE,UAAU;CACzB;;AAED,AAAA,IAAI,CAAA;EACA,WAAW,EAAG,UAAU;EACxB,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;EAChB,WAAW,EAAE,GAAG;EAChB,UAAU,EAAE,IAAI;EAChB,gBAAgB,EAzBH,OAAO;EA0BpB,MAAM,EAAE,QAAQ;CACnB;;AAED,AAAA,EAAE,CAAA;EACE,KAAK,EA/BK,OAAO;CAgCpB",
-    "sources": [
-        "../Markdown Previewer/markdown-style.scss"
-    ],
-    "names": [],
-    "file": "markdown-style.css"
-}
